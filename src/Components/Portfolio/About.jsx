@@ -8,14 +8,6 @@ import "./About.css";
 import { Navbar } from "./Navbar";
 
 const about = () => {
-  
-  const University = "Graphic Era Hill University";
-  const program = "B-Tech. Computer Science & Engineering";
-  const graduationDate = "(2021-2025)";
-    const School = "Kendriya Vidyalaya NSG Manesar, Gurugram";
-    const Board = "CBSE"
-    const grade = "87.6%"
-    const passingYear = "(2020-2021)"
   return (
     <>
     <Navbar/>

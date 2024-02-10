@@ -12,7 +12,6 @@ const certification = () => {
       <div className="certificate-container">
         <div className="certificate c1">
         <h4>Web Development Masterclass & Certifications</h4>
-            <a href=""></a>
           <img src={C1} alt="Web Development masterclasses certificate" />
           <legend>Udemy (2023)</legend>
             
