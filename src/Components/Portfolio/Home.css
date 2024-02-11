@@ -44,9 +44,11 @@ body {
   }
   .profile-image img {
     filter: brightness(80%);
+    transition: filter 0.3s ease;
     width: 200px; 
     height: 200px; 
     border-radius: 8px;
+    margin-top: 10px;
     margin-bottom: 20px;
     cursor: pointer;
     transition: transform 0.3s ease;
