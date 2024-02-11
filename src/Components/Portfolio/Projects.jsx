@@ -49,7 +49,7 @@ const Certification = () => {
           image={P4}
           introduction="Developed an AI Image Generator, a React.js app, seamlessly blends user input with OpenAI’s AI prowess to
           create captivating visuals."
-          link="/"
+          link="https://github.com/sahil-m04"
         />
       </div>
     </>
