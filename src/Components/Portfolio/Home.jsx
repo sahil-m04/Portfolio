@@ -8,6 +8,20 @@ const Landing = () => {
     <>
     <Navbar/>
       <div className="main">
+      <section id="introduction">
+          <div className="about-me">
+            <p className="intro">
+              <span className="span-intro">Hello! </span>
+              <br />I am <span className="span-intro">Sahil Mehta</span>. <br />
+              I am a{" "}
+              <span className="span-intro">
+                Computer Science Engineering Student
+              </span>{" "}
+              <br /> based in <span className="span-intro">Dehradun,Uttarakhand.</span> <br />
+              
+            </p>
+          </div>
+        </section>
         <section id="home">
           <div className="profile-image">
             <h1 className="name">Sahil Mehta</h1>
@@ -41,20 +55,6 @@ const Landing = () => {
             </ul>
             </div>
             
-          </div>
-        </section>
-        <section id="introduction">
-          <div className="about-me">
-            <p className="intro">
-              <span className="span-intro">Hello! </span>
-              <br />I am <span className="span-intro">Sahil Mehta</span>. <br />
-              I am a{" "}
-              <span className="span-intro">
-                Computer Science Engineering Student
-              </span>{" "}
-              <br /> based in <span className="span-intro">Dehradun,Uttarakhand.</span> <br />
-              
-            </p>
           </div>
         </section>
       </div>

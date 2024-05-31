@@ -8,7 +8,7 @@ const resume = () => {
       degree: "B-Tech in Computer Science and Technology",
       institution: "Graphic Era Hill University, Dehradun",
       year: "2021 - 2025",
-      cgpa: "7.65",
+      cgpa: "7.81",
       school: "Kendriya Vidyalaya NSG Manesar, Gurugram",
       board: "CBSE",
       stream: "Intermediate with PCM + Computer Science ",
