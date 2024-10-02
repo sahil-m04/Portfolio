@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import P1 from "../Assets/P1.png";
 import P2 from "../Assets/P2.png";
-import P3 from "../Assets/P3.png";
+import P3 from "../Assets/p3.png";
 import P4 from "../Assets/P4.png";
 import "./Projects.css";
 
@@ -38,11 +38,11 @@ const Certification = () => {
           link="https://github.com/sahil-m04/MyCart"
         />
         <Project
-          title="Leads Tracker"
+          title="Companion"
           image={P3}
-          introduction="Created a Chrome extension for lead tracking using HTML, CSS, and JavaScript, with real-time URL extraction
-          using the Chrome extension API."
-          link="https://github.com/sahil-m04/Lead-Tracker"
+          introduction="Created a full-stack mental health platform using the MERN stack, Vite, and SCSS for delivering essential resources.
+          Integrated real-time chat with Socket.io, built a book recommender and blog section, enabling expert connections and user content."
+          link="https://compainiondev.netlify.app/Home"
         />
         <Project
           title="Deep Vis Ai"

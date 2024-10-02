@@ -1,16 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600");
-body {
-  font-family: 'Titillium Web', sans-serif;
-  color: #fff;
-  margin: 0;
-  padding: 0;
-  background-image: url(../Assets/7971.jpg);
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 h1{
   margin: 0;
   text-align: center;
